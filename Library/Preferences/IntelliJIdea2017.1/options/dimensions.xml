@@ -1,0 +1,10 @@
+<application>
+  <component name="DimensionService">
+    <location key="new project wizard.0.0.1280.800" x="448" y="23" />
+    <location key="WELCOME_SCREEN.0.0.1280.800" x="640" y="241" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1280.800" x="358" y="215" />
+    <location key="NewModule_or_Project.wizard.0.0.1280.800" x="310" y="93" />
+    <size key="new project wizard.0.0.1280.800" width="734" height="726" />
+    <size key="NewModule_or_Project.wizard.0.0.1280.800" width="742" height="646" />
+  </component>
+</application>

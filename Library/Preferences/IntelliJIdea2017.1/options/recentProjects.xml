@@ -1,0 +1,38 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/ToDO1" />
+        <option value="$USER_HOME$/IdeaProjects/myweb" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/ToDO1" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/myweb">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.3780.107" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1491315508976" />
+              <option name="buildTimestamp" value="1490172604035" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ToDO1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.3780.107" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1491317941394" />
+              <option name="buildTimestamp" value="1490172604035" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$" />
+  </component>
+</application>
